@@ -1,4 +1,3 @@
-#My name is DDUYOUNG
 
 # NS-3 simulator for RDMA
 This is an NS-3 simulator for RDMA over Converged Ethernet v2 (RoCEv2). It includes the implementation of DCQCN, TIMELY, PFC, ECN and Broadcom shared buffer switch.
